@@ -29,9 +29,9 @@ export default function Home() {
             {/* Navigation tabs */}
             <Tabs/>
             
-            {activeTab === 'projects' ? (
+            {activeTab === "projects" ? (
               <ProjectsContent/>
-            ) : activeTab === 'experience' ? (
+            ) : activeTab === "experience" ? (
               <ExperienceContent/>
             ) : <EducationContent/>
             }
@@ -44,7 +44,7 @@ export default function Home() {
                 <h3 className="font-semibold">Recent activity</h3>
               </div>
               <div className="p-4 text-center text-gray-400 text-sm">
-                <p>When you take actions across GitHub, we'll provide those activities here.</p>
+                <p>When you take actions across GitHub, we&apos;ll provide those activities here.</p>
               </div>
             </div>
           </div>

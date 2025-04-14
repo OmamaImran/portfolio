@@ -10,7 +10,7 @@ const ReadMeIntro = () => {
           <span className="text-sm font-semibold">README.md</span>
         </div>
         <div className="p-4">
-          <h1 className="text-2xl font-bold mb-4">👋 Hi, I'm Omama Imran</h1>
+          <h1 className="text-2xl font-bold mb-4">👋 Hi, I&apos;m Omama Imran</h1>
           <p className="mb-4">🎯 A passionate full-stack developer with a design eye, turning ideas into smooth user experiences.</p>
           
           <h2 className="text-xl font-semibold mt-6 mb-3">🌱 Currently building with:</h2>
