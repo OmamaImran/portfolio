@@ -130,7 +130,7 @@ const ExperienceContent = () => {
           <li>Used <span className="text-[#58a6ff]">AI tools</span> to generate <span className="text-[#58a6ff]">talk shows word frequency</span> related insights.</li>
           <li>Analyzed tweets from a year of 150 prominent <span className="text-[#58a6ff]">journalists</span> and generated insights out of it. Furthermore, transformed them into understandable and eye-pleasing <span className="text-[#58a6ff]">infographics</span> for <span className="text-[#58a6ff]">Raftar</span> to post.</li>
           <li>Confirming <span className="text-[#58a6ff]">trends</span> on Twitter, determining whether they are genuinely viral or just hyped up by <span className="text-[#58a6ff]">bots</span>.</li>
-          <li>Working on <span className="text-[#58a6ff]">HEC</span>, <span className="text-[#58a6ff]">PBS</span>, and other official datasets, extracting insights and transforming them into creative and visually appealing <span className="text-[#58a6ff]">infographics</span> for Raftar's segment: <span className="text-[#58a6ff]">DataKahani</span>.</li>
+          <li>Working on <span className="text-[#58a6ff]">HEC</span>, <span className="text-[#58a6ff]">PBS</span>, and other official datasets, extracting insights and transforming them into creative and visually appealing <span className="text-[#58a6ff]">infographics</span> for Raftar&apos;s segment: <span className="text-[#58a6ff]">DataKahani</span>.</li>
         </ul>
 
 
@@ -157,7 +157,7 @@ const ExperienceContent = () => {
 
           <ul className="mt-2 space-y-2 pl-5 list-disc text-gray-300 text-sm">
             <li>
-              Conducted a data analysis on the impact of the political campaign <span className="text-[#58a6ff]">"NoCommentZeroReach"</span> launched by PTI, focusing on engagement metrics of tweets by prominent PMLN members including Maryam Nawaz, Maryam Aurangzeb, Bilawal, and Shehbaz Sharif.
+              Conducted a data analysis on the impact of the political campaign <span className="text-[#58a6ff]">&apos;NoCommentZeroReach&apos;</span> launched by PTI, focusing on engagement metrics of tweets by prominent PMLN members including Maryam Nawaz, Maryam Aurangzeb, Bilawal, and Shehbaz Sharif.
             </li>
             <li>
               Collected and analyzed data from 10 days before and after the campaign to measure its effect on the <span className="text-[#58a6ff]">reach and engagement</span> of political figures on Twitter.
@@ -177,18 +177,18 @@ const ExperienceContent = () => {
           }
           className="bg-[#161b22] cursor-pointer mb-5 p-5 rounded-lg border border-[#30363d] hover:border-[#58a6ff] transition-colors"
         >
-          <h3 className="text-lg font-bold text-[#58a6ff]">Aaj Shahzaib "KHANZIADA" ke saath</h3>
+          <h3 className="text-lg font-bold text-[#58a6ff]">Aaj Shahzaib &apos;KHANZIADA&apos; ke saath</h3>
           <p className="text-gray-400 text-sm mt-1 mb-2">OPEN AI Whisper | Python | Data Analysis | Social Media Insights | MS Word</p>
 
           <ul className="mt-2 space-y-2 pl-5 list-disc text-gray-300 text-sm">
             <li>
-              Transcribed 17 episodes of the talk show <span className="text-[#58a6ff]">"Aaj Shahzeb Khanzada ke Saath"</span> using <span className="text-[#58a6ff]">OpenAI Whisper</span>.
+              Transcribed 17 episodes of the talk show <span className="text-[#58a6ff]">&apos;Aaj Shahzeb Khanzada ke Saath&apos;</span> using <span className="text-[#58a6ff]">OpenAI Whisper</span>.
             </li>
             <li>
-              Identified that <span className="text-[#58a6ff]">Imran Khan</span>'s name was mentioned over 500 times in just 674 minutes of airtime — almost once per minute.
+              Identified that <span className="text-[#58a6ff]">Imran Khan</span>&apos;s name was mentioned over 500 times in just 674 minutes of airtime — almost once per minute.
             </li>
             <li>
-              Transformed this insight into a satirical narrative titled <span className="text-[#58a6ff]">"Aaj Shahzaib Khanziada ke Saath"</span> to highlight media focus bias.
+              Transformed this insight into a satirical narrative titled <span className="text-[#58a6ff]">&apos;Aaj Shahzaib Khanziada ke Saath&apos;</span> to highlight media focus bias.
             </li>
             <li>
               Designed and shared a visual summary of the findings with a graphic designer to emphasize political media trends.
@@ -235,7 +235,7 @@ const ExperienceContent = () => {
           }
           className="bg-[#161b22] cursor-pointer mb-5 p-5 rounded-lg border border-[#30363d] hover:border-[#58a6ff] transition-colors"
         >
-          <h3 className="text-lg font-bold text-[#58a6ff]">Political Insights from Journalists' Twitter Data</h3>
+          <h3 className="text-lg font-bold text-[#58a6ff]">Political Insights from Journalists&apos; Twitter Data</h3>
           <p className="text-gray-400 text-sm mt-1 mb-2">Python | Data Analysis | Power BI | Political Journalism</p>
 
           <ul className="mt-2 space-y-2 pl-5 list-disc text-gray-300 text-sm">
