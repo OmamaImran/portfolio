@@ -66,6 +66,33 @@ export const projects = [
   
     },
     {
+      slug: 'david-hahklotubbe',
+      name: 'David Hahklotubbe',
+      link: 'https://david-website-kappa.vercel.app/',
+      stars: 88,
+      language: 'TypeScript',
+      type: 'Web',
+      languageColor: '#2b7489',
+      forks: 45,
+      description: 'A personal website for a Gerontologist and Public Speaker to showcase his mission, events, and publications using Next.js and Tailwind CSS',
+      techStack: ['Next.js', 'Tailwind'],
+      imgHeight: 400,
+      imgWidth: 500,
+      screenshots: [
+        '/project-assets/david/screenshot-1.png',
+        '/project-assets/david/screenshot-2.png',
+        '/project-assets/david/screenshot-3.png',
+        '/project-assets/david/screenshot-4.png',
+        '/project-assets/david/screenshot-5.png',
+
+      ],
+      points: [
+        "Developed a fully responsive personal website using Next.js and Tailwind CSS.",
+        "Showcased David's work as a Gerontologist, Death Doula, and Public Speaker",
+        "Collaborated closely with the client to align design and content with his personal mission of regret-free living",
+      ],
+    },
+    {
       slug: 'makery',
       name: 'Makery',
       stars: 88,

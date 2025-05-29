@@ -3,6 +3,8 @@ import { useParams } from 'next/navigation';
 import { projects } from '@/contants/common';
 import Image from 'next/image';
 import { useState } from 'react';
+import Link from 'next/link';
+import { ExternalLink } from 'lucide-react';
 
 export default function RepoDetail() {
   const { repoName } = useParams();
@@ -23,6 +25,20 @@ export default function RepoDetail() {
             <li key={i}>{point}</li>
           ))}
         </ul>
+        {
+          project.link && (
+            <div className="">
+              <Link
+                href={project.link}
+                target="_blank"
+                rel="noopener noreferrer"
+                className="inline-flex items-center mt-4 text-sm text-blue-400"
+              >
+                View Deployed Project <span className="ml-1"><ExternalLink size={15}/></span>
+              </Link>
+            </div>
+          )
+        }
 
         <div className="mt-6">
           <h2 className="text-xl font-semibold mb-4">Screenshots</h2>
