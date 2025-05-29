@@ -53,7 +53,7 @@ const ProjectsContent = () => {
             {/* <h2 className="text-lg font-semibold mb-4">Pinned</h2> */}
             <div className="grid md:grid-cols-2 gap-4 mb-8">
                 {projects.map((project) => (
-                        <div className="bg-[#161b22] p-4 rounded-md border border-[#30363d] hover:border-[#58a6ff] transition">
+                        <div key={project.slug} className="bg-[#161b22] p-4 rounded-md border border-[#30363d] hover:border-[#58a6ff] transition">
                             <div className="flex justify-between items-start mb-2">
                                 <h3 className="text-md font-semibold text-[#58a6ff]">{project.name}</h3>
                                 <button className="text-xs bg-[#21262d] border border-[#363b42] rounded-md py-0.5 px-2 hover:bg-[#30363d]">
