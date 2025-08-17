@@ -28,6 +28,7 @@ const Skills = () => {
                     <h4 className="text-sm font-medium mb-2">Backend Development</h4>
                     <div className="flex flex-wrap gap-1">
                         {createSkillBoxes('NestJS', 3)}
+                        {createSkillBoxes('Firebase', 4)}
                         {createSkillBoxes('PostgreSQL', 4)}
                         {createSkillBoxes('Prisma', 3)}
                         {createSkillBoxes('Docker', 2)}

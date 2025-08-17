@@ -24,12 +24,14 @@ const ReadMeIntro = () => {
                 <li>Zustand</li>
                 <li>React Query</li>
                 <li>MUI</li>
+                <li>ShadCN</li>
               </ul>
             </div>
             <div>
               <h3 className="font-medium mb-2">Backend:</h3>
               <ul className="text-sm text-gray-400 list-disc list-inside">
                 <li>NestJS</li>
+                <li>Firebase</li>
                 <li>PostgreSQL</li>
                 <li>Prisma</li>
                 <li>Supabase</li>
